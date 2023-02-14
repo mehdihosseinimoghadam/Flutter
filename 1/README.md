@@ -1,6 +1,4 @@
-# Simple Flutter ImageCard
-
-<img src="https://blog.logrocket.com/wp-content/uploads/2021/04/Building-Flutter-desktop-app-tutorial-examples.png" height="60" width="60" >
+# Simple Flutter ImageCard <img src="https://blog.logrocket.com/wp-content/uploads/2021/04/Building-Flutter-desktop-app-tutorial-examples.png" height="60" width="60" >
 
 ## Getting Started
 
