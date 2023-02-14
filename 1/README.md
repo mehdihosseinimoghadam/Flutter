@@ -21,4 +21,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://github.com/mehdihosseinimoghadam/Flutter/blob/main/1/imageCard1.gif))
+![Alt Text](https://github.com/mehdihosseinimoghadam/Flutter/blob/main/1/imageCard1.gif)
+
