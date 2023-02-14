@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/mehdihosseinimoghadam/Flutter/blob/main/1/Widget.png" height="500" width="500" >
+<img src="https://github.com/mehdihosseinimoghadam/Flutter/blob/main/1/Widget.png" height="600" width="600" >
 
 
 
