@@ -1,4 +1,4 @@
-# Simple Flutter ImageCard   <img src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" height="40" width="40" >
+# 2Pac Music Playlist App  <img src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" height="40" width="40" >
 
 
 
