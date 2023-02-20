@@ -2,9 +2,6 @@
 
 
 
-<img src="https://github.com/mehdihosseinimoghadam/Flutter/blob/main/1/Widget.png" height="600" width="600" >
-
-
 
 
 ## Getting Started
@@ -21,5 +18,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![Alt Text](https://github.com/mehdihosseinimoghadam/Flutter/blob/main/1/imageCard1.gif)
+![Alt Text](https://github.com/mehdihosseinimoghadam/Flutter/blob/main/2/2pac.gif)
 
