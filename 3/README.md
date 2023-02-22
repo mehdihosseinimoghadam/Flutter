@@ -1,4 +1,4 @@
-# Simple Flutter Profile Card with Image   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="40" width="80" >
+# Simple Flutter Profile Card with Image   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" height="40" width="60" >
 
 
 
