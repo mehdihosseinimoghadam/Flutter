@@ -1,4 +1,4 @@
-# Simple Flutter Profile Card with Image   <img src="https://miro.medium.com/max/749/0*MXYivtrvfMI2nZXU." height="40" width="40" >
+# Simple Flutter Profile Card with Image   <img src="https://miro.medium.com/max/749/0*MXYivtrvfMI2nZXU." height="60" width="150" >
 
 
 
